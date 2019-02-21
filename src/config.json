@@ -1,80 +1,331 @@
 {
-  "title": "Treebank Publication Template",
-  "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-  "copyright": "The Perseids Project 2019",
-  "report": "https://github.com/perseids-publications/treebank-template/issues",
-  "github": "https://github.com/perseids-publications/treebank-template/",
-  "twitter": "https://twitter.com/PerseidsProject",
+  "title": "*TITLE*",
+  "subtitle": "*SUBTITLE*",
+  "report": "https://github.com/perseids-publications/cst-trees/issues",
+  "github": "https://github.com/perseids-publications/cst-trees",
+  "twitter": "",
   "collections": [
     {
-      "title": "Collection 1", 
+      "title": "*TREEBANK COLLECTION TITLE*",
       "publications": [
         {
-          "path": "on-the-murder-of-eratosthenes",
-          "author": "Lysias",
-          "work": "On the Murder of Eratosthenes",
-          "editors": "Vanessa Gorman",
+          "path": "athenaeus-deipnosophistae",
+          "author": "Athenaeus",
+          "work": "Deipnosophistae",
+          "editors": "Clara Sánchez Trigo",
           "sections": [
             {
-              "locus": "1-50",
-              "path": "on-the-murder-of-eratosthenes-1-50",
-              "xml": "lysias-1-1-50.xml",
-              "link": "https://www.example.com",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-              "chunks": { "start": 1, "end": 134 }
+              "locus": "12.1-12.44",
+              "path": "perseus-grctb-1-25",
+              "xml": "perseus-grctb-1-25.xml",
+              "chunks": {
+                "start": 1,
+                "end": 539
+              }
+            },
+            {
+              "locus": "12.76-12.81",
+              "path": "perseus-grctb-3-4",
+              "xml": "perseus-grctb-3-4.xml",
+              "chunks": {
+                "start": 1,
+                "end": 108
+              }
             }
           ]
         },
         {
-          "path": "on-the-crown",
-          "author": "Demosthenes",
-          "work": "On the Crown",
-          "editors": "Vanessa Gorman",
+          "path": "c-julius-caesar-de-bello-gallico",
+          "author": "C. Julius Caesar",
+          "work": "De bello Gallico",
+          "editors": "Clara Sánchez Trigo",
           "sections": [
             {
-              "locus": "1-50",
-              "path": "on-the-crown-1-50",
-              "xml": "demosthenes-18-1-50.xml",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-              "chunks": { "start": 1, "end": 160 }
-            },
-            {
-              "locus": "51-100",
-              "path": "on-the-crown-51-100",
-              "xml": "demosthenes-18-51-100.xml",
-              "chunks": { "start": 1, "end": 149 }
+              "locus": "6",
+              "path": "perseus-grctb-499-1",
+              "xml": "perseus-grctb-499-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 337
+              }
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Collection 2",
-      "publications": [
+        },
         {
-          "path": "histories",
-          "author": "Herodotus",
-          "work": "The Histories",
-          "editors": "Vanessa Gorman",
+          "path": "c-valerius-catullus-carmina",
+          "author": "C. Valerius Catullus",
+          "work": "Carmina",
+          "editors": "Clara Sánchez Trigo",
           "sections": [
             {
-              "locus": "40-59",
-              "path": "histories-40-59",
-              "xml": "herodotus-1-40-59.xml",
-              "chunks": { "start": 1, "end": 100 }
+              "locus": "1",
+              "path": "perseus-lattb-519-1",
+              "xml": "perseus-lattb-519-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 4
+              }
             },
             {
-              "locus": "60-79",
-              "path": "histories-60-79",
-              "xml": "herodotus-1-60-79.xml",
-              "chunks": { "start": 1, "end": 166 }
+              "locus": "2",
+              "path": "perseus-lattb-573-1",
+              "xml": "perseus-lattb-573-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 2
+              }
             },
             {
-              "locus": "80-99",
-              "path": "histories-80-99",
-              "xml": "herodotus-1-80-99.xml",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-              "chunks": { "start": 1, "end": 185 }
+              "locus": "3",
+              "path": "perseus-lattb-623-1",
+              "xml": "perseus-lattb-623-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 9
+              }
+            },
+            {
+              "locus": "3",
+              "path": "perseus-lattb-1540-1",
+              "xml": "perseus-lattb-1540-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 9
+              }
+            },
+            {
+              "locus": "4",
+              "path": "perseus-lattb-845-1",
+              "xml": "perseus-lattb-845-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 8
+              }
+            },
+            {
+              "locus": "5",
+              "path": "perseus-lattb-863-1",
+              "xml": "perseus-lattb-863-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 4
+              }
+            },
+            {
+              "locus": "6",
+              "path": "perseus-lattb-871-1",
+              "xml": "perseus-lattb-871-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 9
+              }
+            },
+            {
+              "locus": "7",
+              "path": "perseus-lattb-872-1",
+              "xml": "perseus-lattb-872-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 2
+              }
+            },
+            {
+              "locus": "8",
+              "path": "perseus-lattb-1014-1",
+              "xml": "perseus-lattb-1014-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 18
+              }
+            },
+            {
+              "locus": "9",
+              "path": "perseus-lattb-1015-1",
+              "xml": "perseus-lattb-1015-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 5
+              }
+            },
+            {
+              "locus": "10",
+              "path": "perseus-lattb-1016-1",
+              "xml": "perseus-lattb-1016-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 14
+              }
+            },
+            {
+              "locus": "101",
+              "path": "perseus-lattb-1013-1",
+              "xml": "perseus-lattb-1013-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 2
+              }
+            }
+          ]
+        },
+        {
+          "path": "herodotus-the-histories",
+          "author": "Herodotus",
+          "work": "The Histories",
+          "editors": "Vanessa Gorman, Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1.1-1.80",
+              "path": "perseus-grctb-160-8",
+              "xml": "perseus-grctb-160-8.xml",
+              "chunks": {
+                "start": 1,
+                "end": 555
+              }
+            },
+            {
+              "locus": "1.81-1.150",
+              "path": "perseus-grctb-169-4",
+              "xml": "perseus-grctb-169-4.xml",
+              "chunks": {
+                "start": 1,
+                "end": 522
+              }
+            }
+          ]
+        },
+        {
+          "path": "m-annaeus-lucanus-pharsalia",
+          "author": "M. Annaeus Lucanus",
+          "work": "Pharsalia",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1.1-1.5",
+              "path": "perseus-vortextb-70-1",
+              "xml": "perseus-vortextb-70-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 1
+              }
+            }
+          ]
+        },
+        {
+          "path": "polybius-histories",
+          "author": "Polybius",
+          "work": "Histories",
+          "editors": "Vanessa Gorman, Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1.1-1.28",
+              "path": "perseus-grctb-8-7",
+              "xml": "perseus-grctb-8-7.xml",
+              "chunks": {
+                "start": 1,
+                "end": 341
+              }
+            }
+          ]
+        },
+        {
+          "path": "thucydides-the-peloponnesian-war",
+          "author": "Thucydides",
+          "work": "The Peloponnesian War",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1.1-1.146",
+              "path": "perseus-grctb-501-1",
+              "xml": "perseus-grctb-501-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 959
+              }
+            }
+          ]
+        },
+        {
+          "path": "thucydides-the-peloponnesian-war",
+          "author": "Thucydides",
+          "work": "The Peloponnesian War",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "perseus-grctb-502-1",
+              "xml": "perseus-grctb-502-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 1361
+              }
+            }
+          ]
+        },
+        {
+          "path": "unknown-1",
+          "author": "unknown-author-1",
+          "work": "unknown-work-1",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "perseus-lattb-470-1",
+              "xml": "perseus-lattb-470-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 17
+              }
+            }
+          ]
+        },
+        {
+          "path": "unknown-2",
+          "author": "unknown-author-2",
+          "work": "unknown-work-2",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "2.1",
+              "path": "perseus-lattb-471-1",
+              "xml": "perseus-lattb-471-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 28
+              }
+            }
+          ]
+        },
+        {
+          "path": "unknown-3",
+          "author": "unknown-author-3",
+          "work": "unknown-work-3",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "4.5",
+              "path": "perseus-lattb-495-1",
+              "xml": "perseus-lattb-495-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 99
+              }
+            }
+          ]
+        },
+        {
+          "path": "unknown-4",
+          "author": "unknown-author-4",
+          "work": "unknown-work-4",
+          "editors": "Clara Sánchez Trigo",
+          "sections": [
+            {
+              "locus": "unknown",
+              "path": "perseus-misctb-60-1",
+              "xml": "perseus-misctb-60-1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 4
+              }
             }
           ]
         },
