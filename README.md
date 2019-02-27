@@ -1,13 +1,12 @@
-# Treebank Template
+# Clara Sánchez Trigo Trees
 
-Template for publishing collections of treebanks.
+Set of treebanks published by Clara Sánchez Trigo.
 
-The treebanks themselves live in the `./public/xml` directory.
-All other configuration is done using `./src/config.json`.
+Based on the template [here](https://github.com/perseids-publications/treebank-template).
 
 ## Try it Out
 
-[https://perseids-publications.github.io/treebank-template/](https://perseids-publications.github.io/treebank-template/)
+[https://perseids-publications.github.io/cst-trees/](https://perseids-publications.github.io/cst-trees/)
 
 ## How to configure with your own treebanks
 
