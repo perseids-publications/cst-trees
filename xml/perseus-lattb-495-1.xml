@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="lat" format="aldt" version="1.5">
+   <date>Wed Oct 15 06:45:36 +0000 2014</date>
+   <annotator>
+      <short>lltsegtok</short>
+      <name>net.latin-language-toolkit:segtok.v0.0.5</name>
+      <address>http://services.perseids.org/llt/segtok</address>
+  </annotator>
+   <annotator>
+      <short>morpheus</short>
+      <name>org.perseus:tools:morpheus.v1</name>
+      <address>http://services.perseids.org/bsp/morphologyservice/engine/morpheuslat</address>
+  </annotator>
+   <annotator>
+      <short>Clara Sánchez Trigo</short>
+      <name>Clara Sánchez Trigo</name>
+      <address>clarasancheztrigo@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Clara%20S%C3%A1nchez%20Trigo</uri>
+  </annotator>
+   <sentence id="1" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quid" lemma="quis2" postag="p-s---nn-" relation="nil" head="0"/>
+      <word id="2" form="querar" lemma="queror" postag="v1sfip---" relation="nil" head="0"/>
+      <word id="3" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="unde" lemma="unde" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="novo" lemma="novus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="3" form="quaeram" lemma="quaero" postag="v1sfia---" relation="nil" head="0"/>
+      <word id="4" form="fomenta" lemma="fomentum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="5" form="dolori" lemma="dolor" postag="n-s---md-" relation="nil" head="0"/>
+      <word id="6" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ecce" lemma="ecce" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="iacet" lemma="jaceo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="3" form="lacrymis" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="mater" lemma="mater" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="6" form="humanda" lemma="humo" postag="v-p-g-nn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="meis" lemma="mei" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ergo" lemma="ergo" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="erit" lemma="sum1" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="3" form="ista" lemma="iste" postag="p-s---fn-" relation="nil" head="0"/>
+      <word id="4" form="dies" lemma="dies" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="5" form="nobis" lemma="nos" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="6" form="dum" lemma="dum" postag="c--------" relation="nil" head="0"/>
+      <word id="7" form="vita" lemma="vito" postag="v2spma---" relation="nil" head="0"/>
+      <word id="8" form="manebit" lemma="maneo" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Semper" lemma="semper" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="acerba" lemma="acerbus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="12" form="licet" lemma="liceo1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="rite" lemma="rite" postag="d--------" relation="nil" head="0"/>
+      <word id="15" form="colenda" lemma="colo1" postag="v-p-g-nn-" relation="nil" head="0"/>
+      <word id="16" form="tamen" lemma="tamen" postag="d--------" relation="nil" head="0"/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sive" lemma="sive" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="illam" lemma="ille" postag="p-s---fa-" relation="nil" head="0"/>
+      <word id="3" form="Libyco" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="longe" lemma="longus" postag="a--------" relation="nil" head="0"/>
+      <word id="5" form="deprensus" lemma="deprehendo" postag="v-srppmn-" relation="nil"
+            head="0"/>
+      <word id="6" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="7" form="aestu" lemma="aestus" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Sive" lemma="sive" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="Lycaonio" lemma="" postag="" relation="nil" head="0"/>
+      <word id="11" form="sidere" lemma="sidus" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="12" form="pressus" lemma="premo" postag="v-srppmn-" relation="nil" head="0"/>
+      <word id="13" form="agam" lemma="ago" postag="v1sfia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Nam" lemma="nam" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="quoties" lemma="quotiens" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="3" form="agilis" lemma="agilis" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="sese" lemma="sui" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="5" form="converterit" lemma="converto" postag="v3stia---" relation="nil"
+            head="0"/>
+      <word id="6" form="annus" lemma="annus" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Nostra" lemma="noster" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="9" form="recrudescet" lemma="recrudesco" postag="v3sfia---" relation="nil"
+            head="0"/>
+      <word id="10" form="tempore" lemma="tempus" postag="n-s---nb-" relation="nil"
+            head="0"/>
+      <word id="11" form="plaga" lemma="plaga1" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="12" form="suo" lemma="suum" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="Admonitus" lemma="admonitus2" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="15" form="plangam" lemma="plango" postag="v1sfia---" relation="nil"
+            head="0"/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="pietas" lemma="pietas1" postag="n-s---fn-" relation="nil"
+            head="0"/>
+      <word id="18" form="renovabit" lemma="renovo" postag="v3sfia---" relation="nil"
+            head="0"/>
+      <word id="19" form="honorem" lemma="honor" postag="n-s---ma-" relation="nil" head="0"/>
+      <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="21" form="Moesta" lemma="maestus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="22" form="pius" lemma="pius" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="23" form="tumulo" lemma="tumulus" postag="n-s---mb-" relation="nil"
+            head="0"/>
+      <word id="24" form="munera" lemma="munus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="25" form="reddet" lemma="reddo" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="26" form="honos" lemma="honor" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Atra" lemma="ater1" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="dies" lemma="dies" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="Nonas" lemma="nonus" postag="a-p---fa-" relation="nil" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="sequeris" lemma="sequor" postag="v2sfip---" relation="nil"
+            head="0"/>
+      <word id="7" form="quae" lemma="qui2" postag="p-p---fn-" relation="nil" head="0"/>
+      <word id="8" form="quinta" lemma="quintus1" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Decembres" lemma="" postag="" relation="nil" head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="Accipe" lemma="accipio" postag="v2spma---" relation="nil"
+            head="0"/>
+      <word id="13" form="non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="14" form="albae" lemma="albus" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="tristia" lemma="tristis" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="17" form="signa" lemma="signum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="notae" lemma="notus" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Turbidior" lemma="turbidus" postag="a-s---mnc" relation="nil"
+            head="0"/>
+      <word id="2" form="nobis" lemma="nos" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="3" form="caligine" lemma="caligo1" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="4" form="noctis" lemma="nox" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="5" form="opacae" lemma="opacus" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Semper" lemma="semper" postag="d--------" relation="nil" head="0"/>
+      <word id="8" form="eris" lemma="erus" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="puro" lemma="purus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="11" form="tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="12" form="licet" lemma="liceo1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="13" form="ig" lemma="" postag="" relation="nil" head="0"/>
+      <word id="14" form="-ne" lemma="" postag="" relation="nil" head="0"/>
+      <word id="15" form="mices" lemma="miceo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="9" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quanquam" lemma="quamquam" postag="c--------" relation="nil"
+            head="0"/>
+      <word id="2" form="nunc" lemma="nunc" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="etiam" lemma="etiam" postag="c--------" relation="nil" head="0"/>
+      <word id="4" form="non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="laeta" lemma="laeta" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="luce" lemma="luceo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="7" form="coruscas" lemma="corusco" postag="v2spia---" relation="nil"
+            head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="nigris" lemma="nigrum" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="11" form="horres" lemma="horreo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="12" form="concolor" lemma="concolor" postag="v1spip---" relation="nil"
+            head="0"/>
+      <word id="13" form="exequiis" lemma="exsequiae" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="10" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Aethereos" lemma="" postag="" relation="nil" head="0"/>
+      <word id="2" form="tractus" lemma="tractus2" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="3" form="radiis" lemma="radius" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="4" form="impervia" lemma="impervius" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="5" form="nubes" lemma="nubo" postag="v2sfia---" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Abstulit" lemma="aufero" postag="v3sria---" relation="nil"
+            head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="nebulis" lemma="nebula" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="11" form="obsita" lemma="obsero2" postag="v-prppnn-" relation="nil"
+            head="0"/>
+      <word id="12" form="terra" lemma="terra" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="13" form="latet" lemma="lateo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="11" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Talibus" lemma="talis" postag="a-p---mb-" relation="nil" head="0"/>
+      <word id="2" form="obsequiis" lemma="obsequiae" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="3" form="talis" lemma="talis" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="bene" lemma="bene" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="convenit" lemma="convenio" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="6" form="aer" lemma="aer" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="sunt" lemma="sum1" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="10" form="funereis" lemma="funereus" postag="a-p---nb-" relation="nil"
+            head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="apta" lemma="apiscor" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="13" form="serena" lemma="serenus1" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="rogis" lemma="rogus" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="12" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="gravis" lemma="gravis" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="hoc" lemma="huc" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="egit" lemma="ago" postag="v3sria---" relation="nil" head="0"/>
+      <word id="6" form="nimbosis" lemma="nimbosus" postag="a-p---nb-" relation="nil"
+            head="0"/>
+      <word id="7" form="flatibus" lemma="flatus" postag="n-p---mb-" relation="nil"
+            head="0"/>
+      <word id="8" form="Auster" lemma="auster1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Ipsa" lemma="ipse" postag="p-s---fn-" relation="nil" head="0"/>
+      <word id="11" form="ultro" lemma="ultro" postag="d--------" relation="nil" head="0"/>
+      <word id="12" form="nostris" lemma="noster" postag="a-p---nb-" relation="nil"
+            head="0"/>
+      <word id="13" form="condolet" lemma="condoleo" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="14" form="aura" lemma="aurum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="15" form="malis" lemma="malum" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="13" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="vero" lemma="verus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="3" form="nimium" lemma="nimius" postag="a-p---ng-" relation="nil" head="0"/>
+      <word id="4" form="nobis" lemma="nos" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="5" form="infense" lemma="infensus" postag="a--------" relation="nil"
+            head="0"/>
+      <word id="6" form="December" lemma="" postag="" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Cur" lemma="cur" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="toties" lemma="totiens" postag="d--------" relation="nil" head="0"/>
+      <word id="10" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="11" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="12" form="perfida" lemma="perfidus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="13" form="bella" lemma="bellus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="moves" lemma="moveo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="15" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="14" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Nonne" lemma="nonne" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="semel" lemma="semel" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="rapto" lemma="raptum" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="5" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="6" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="7" form="laesisse" lemma="laedo" postag="v--rna---" relation="nil" head="0"/>
+      <word id="8" form="Guarino" lemma="" postag="" relation="nil" head="0"/>
+      <word id="9" form="Sat" lemma="sat" postag="d--------" relation="nil" head="0"/>
+      <word id="10" form="foret" lemma="sum1" postag="v3sisa---" relation="nil" head="0"/>
+      <word id="11" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="15" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="en" lemma="en" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="iterum" lemma="iterum" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="vulnera" lemma="vulnus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="4" form="nostra" lemma="noster" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="novas" lemma="novus" postag="a-p---fa-" relation="nil" head="0"/>
+      <word id="6" form="!" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="16" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ultime" lemma="ultimum" postag="n-s---nv-" relation="nil" head="0"/>
+      <word id="2" form="bis" lemma="bis" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="senis" lemma="senex" postag="n-s---mg-" relation="nil" head="0"/>
+      <word id="4" form="rapidi" lemma="rapidus" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="5" form="de" lemma="de" postag="d--------" relation="nil" head="0"/>
+      <word id="6" form="fratribus" lemma="frater" postag="n-p---mb-" relation="nil"
+            head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="anni" lemma="annus" postag="n-p---mn-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Invidiose" lemma="invidiosus" postag="a--------" relation="nil"
+            head="0"/>
+      <word id="11" form="viris" lemma="vis" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="invidiose" lemma="invidiose" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="14" form="Deis" lemma="deeo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="15" form="!" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="17" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="damno" lemma="damnum" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="3" form="lucis" lemma="lucius2" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="4" form="nocturnas" lemma="nocturnus" postag="a-p---fa-" relation="nil"
+            head="0"/>
+      <word id="5" form="porrigis" lemma="porrigo1" postag="v2spia---" relation="nil"
+            head="0"/>
+      <word id="6" form="horas" lemma="hora1" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ducis" lemma="dux" postag="n-s---mg-" relation="nil" head="0"/>
+      <word id="9" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="exiguo" lemma="exiguus" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="11" form="tramite" lemma="trames" postag="n-s---mb-" relation="nil"
+            head="0"/>
+      <word id="12" form="solis" lemma="solium" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="13" form="equos" lemma="equus1" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="18" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="pigro" lemma="pigro" postag="v1spia---" relation="nil" head="0"/>
+      <word id="3" form="informem" lemma="informo" postag="v1spsa---" relation="nil"
+            head="0"/>
+      <word id="4" form="contristas" lemma="contristo" postag="v2spia---" relation="nil"
+            head="0"/>
+      <word id="5" form="frigore" lemma="frigor" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="6" form="mundum" lemma="mundum" postag="n-p---ng-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Exuis" lemma="exuo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="9" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="campos" lemma="campus1" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="11" form="grami" lemma="" postag="" relation="nil" head="0"/>
+      <word id="12" form="-ne" lemma="" postag="" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="fronde" lemma="frondeo" postag="v2spma---" relation="nil"
+            head="0"/>
+      <word id="15" form="nemus" lemma="no1" postag="v1ppsa---" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="19" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Mense" lemma="mensus" postag="a--------" relation="nil" head="0"/>
+      <word id="2" form="tuo" lemma="tuus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="3" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="5" form="prata" lemma="pratum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="greges" lemma="grex" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="7" form="viridantia" lemma="virido" postag="v-ppp-nn-" relation="nil"
+            head="0"/>
+      <word id="8" form="tondent" lemma="tondeo" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="11" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="12" form="leve" lemma="levis2" postag="a-s---nn-" relation="nil" head="0"/>
+      <word id="13" form="sub" lemma="sub" postag="r--------" relation="nil" head="0"/>
+      <word id="14" form="foliis" lemma="folium" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="15" form="garrula" lemma="garrulus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="16" form="cantat" lemma="canto" postag="v3spia---" relation="nil" head="0"/>
+      <word id="17" form="avis" lemma="avia1" postag="n-p---fb-" relation="nil" head="0"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="20" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="facis" lemma="fax" postag="n-s---fg-" relation="nil" head="0"/>
+      <word id="3" form="ut" lemma="ut" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="late" lemma="latus3" postag="a--------" relation="nil" head="0"/>
+      <word id="5" form="populantibus" lemma="populo" postag="v-ppp-mb-" relation="nil"
+            head="0"/>
+      <word id="6" form="omnia" lemma="omne" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="7" form="Turcis" lemma="" postag="" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Tecta" lemma="tego" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="10" form="gelu" lemma="gelus" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="11" form="faciles" lemma="facilis" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="12" form="praebeat" lemma="praebeo" postag="v3spsa---" relation="nil"
+            head="0"/>
+      <word id="13" form="unda" lemma="unda" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="14" form="vias" lemma="vio" postag="v2spia---" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="21" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Te" lemma="tu" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="2" form="quondam" lemma="quondam" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="3" form="Genio" lemma="genius" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="4" form="sacravit" lemma="sacro" postag="v3sria---" relation="nil" head="0"/>
+      <word id="5" form="vana" lemma="vanus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="vetustas" lemma="vetustus" postag="a-p---fa-" relation="nil"
+            head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="At" lemma="at" postag="c--------" relation="nil" head="0"/>
+      <word id="9" form="tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="10" form="debueras" lemma="debeo" postag="v2slia---" relation="nil"
+            head="0"/>
+      <word id="11" form="manibus" lemma="manus1" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="12" form="esse" lemma="sum1" postag="v--pna---" relation="nil" head="0"/>
+      <word id="13" form="sacer" lemma="sacer" postag="d--------" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="22" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Vana" lemma="vanum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="queror" lemma="queror" postag="v1spip---" relation="nil" head="0"/>
+      <word id="3" form="demens" lemma="demens" postag="a-s---nn-" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="nil" lemma="nihil" postag="x-s---n--" relation="nil" head="0"/>
+      <word id="6" form="unquam" lemma="umquam" postag="d--------" relation="nil" head="0"/>
+      <word id="7" form="tempora" lemma="tempus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="8" form="peccant" lemma="pecco" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Quae" lemma="qui1" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="11" form="peragit" lemma="perago" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="12" form="verso" lemma="verto" postag="v-srppnb-" relation="nil" head="0"/>
+      <word id="13" form="mobilis" lemma="mobilis" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="14" form="orbe" lemma="orbus" postag="a--------" relation="nil" head="0"/>
+      <word id="15" form="polus" lemma="polus1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="23" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Vos" lemma="tu" postag="p-p---ma-" relation="nil" head="0"/>
+      <word id="2" form="potius" lemma="potis" postag="a-------c" relation="nil" head="0"/>
+      <word id="3" form="nostri" lemma="noster" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="4" form="moeroris" lemma="" postag="" relation="nil" head="0"/>
+      <word id="5" form="crimen" lemma="crimen" postag="n-s---na-" relation="nil" head="0"/>
+      <word id="6" form="habetis" lemma="habeo" postag="v2ppia---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Sidera" lemma="sidus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="fatales" lemma="fatalis" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="11" form="volvere" lemma="volvo" postag="v2sfip---" relation="nil" head="0"/>
+      <word id="12" form="nata" lemma="nato" postag="v2spma---" relation="nil" head="0"/>
+      <word id="13" form="vices" lemma="vicis" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="24" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Vos" lemma="tu" postag="p-p---ma-" relation="nil" head="0"/>
+      <word id="2" form="penes" lemma="penis" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="est" lemma="sum1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="4" form="vitae" lemma="vita" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="5" form="pariter" lemma="parito" postag="v1spsp---" relation="nil" head="0"/>
+      <word id="6" form="cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="7" form="morte" lemma="mors" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="8" form="potestas" lemma="potestas" postag="n-s---fn-" relation="nil"
+            head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="A" lemma="a" postag="e--------" relation="nil" head="0"/>
+      <word id="11" form="vobis" lemma="tu" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="12" form="causas" lemma="causa" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="13" form="inferiore" lemma="inferus" postag="a-s----bc" relation="nil"
+            head="0"/>
+      <word id="14" form="trahunt" lemma="traho" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="25" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quid" lemma="quis2" postag="p-s---nn-" relation="nil" head="0"/>
+      <word id="2" form="iuvat" lemma="juvo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="3" form="o" lemma="o" postag="e--------" relation="nil" head="0"/>
+      <word id="4" form="Superi" lemma="superus" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="fixisse" lemma="figo" postag="v--rna---" relation="nil" head="0"/>
+      <word id="7" form="nocentia" lemma="nocentia" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="8" form="coelo" lemma="caelum2" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="9" form="Astra" lemma="astrum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="10" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="26" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="quid" lemma="quis2" postag="p-s---nn-" relation="nil" head="0"/>
+      <word id="2" form="errantes" lemma="erro1" postag="v-ppp-ma-" relation="nil" head="0"/>
+      <word id="3" form="constituisse" lemma="constituo" postag="v--rna---" relation="nil"
+            head="0"/>
+      <word id="4" form="globos" lemma="globus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="5" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="27" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sponte" lemma="sponte" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="2" form="sua" lemma="sua" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="3" form="letum" lemma="letum" postag="n-p---ng-" relation="nil" head="0"/>
+      <word id="4" form="mortalibus" lemma="mortalia" postag="n-p---nb-" relation="nil"
+            head="0"/>
+      <word id="5" form="imminet" lemma="immineo" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="6" form="aegris" lemma="aegrum" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Sponte" lemma="sponte" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="9" form="sua" lemma="sua" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="e" lemma="ex" postag="r--------" relation="nil" head="0"/>
+      <word id="12" form="fragili" lemma="fragilis" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="13" form="corpore" lemma="corpus" postag="n-s---nb-" relation="nil"
+            head="0"/>
+      <word id="14" form="vita" lemma="vito" postag="v2spma---" relation="nil" head="0"/>
+      <word id="15" form="fugit" lemma="fugio" postag="v3spia---" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="28" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Si" lemma="si" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="laesura" lemma="laedo" postag="v-pfpann-" relation="nil" head="0"/>
+      <word id="3" form="homines" lemma="homo" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="stellarum" lemma="stella" postag="n-p---fg-" relation="nil"
+            head="0"/>
+      <word id="5" form="signa" lemma="signum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="fuerunt" lemma="sum1" postag="v3pria---" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="29" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Debebat" lemma="debeo" postag="v3siia---" relation="nil" head="0"/>
+      <word id="2" form="simplex" lemma="simplex" postag="a-s---mn-" relation="nil"
+            head="0"/>
+      <word id="3" form="aetheris" lemma="aether" postag="n-s---mg-" relation="nil"
+            head="0"/>
+      <word id="4" form="esse" lemma="sum1" postag="v--pna---" relation="nil" head="0"/>
+      <word id="5" form="color" lemma="colo2" postag="v1spip---" relation="nil" head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="30" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="At" lemma="at" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="vos" lemma="tu" postag="p-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="4" form="frustra" lemma="frustra" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="5" form="petitis" lemma="peto" postag="v2ppia---" relation="nil" head="0"/>
+      <word id="6" form="lenire" lemma="lenio" postag="v--pna---" relation="nil" head="0"/>
+      <word id="7" form="sodales" lemma="sodalis" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="31" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Parcite" lemma="parco" postag="v2ppma---" relation="nil" head="0"/>
+      <word id="2" form="nunc" lemma="nunc" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="forsan" lemma="forsan" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="postmodo" lemma="postmodo" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="6" form="tempus" lemma="tempus" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="7" form="erit" lemma="sum1" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="32" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="facile" lemma="facilis" postag="a-s---nn-" relation="nil" head="0"/>
+      <word id="3" form="est" lemma="sum1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="4" form="iram" lemma="ira" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="5" form="dictis" lemma="dico2" postag="v-prppnb-" relation="nil" head="0"/>
+      <word id="6" form="mollire" lemma="mollio" postag="v--pna---" relation="nil" head="0"/>
+      <word id="7" form="recentem" lemma="recens" postag="a-s---ma-" relation="nil"
+            head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="10" form="bene" lemma="bene" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="curantes" lemma="curo" postag="v-ppp-ma-" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="fert" lemma="fero" postag="v3spia---" relation="nil" head="0"/>
+      <word id="15" form="nova" lemma="novum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="16" form="plaga" lemma="plaga1" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="18" form="manus" lemma="manus1" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="33" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="3" form="puto" lemma="puto" postag="v1spia---" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="maius" lemma="majus" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="6" form="habent" lemma="habeo" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="7" form="vulnus" lemma="vulnus" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="8" form="mea" lemma="meum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="9" form="pectora" lemma="pectus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="quam" lemma="qui1" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="12" form="quod" lemma="qui1" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="13" form="Vel" lemma="vel" postag="d--------" relation="nil" head="0"/>
+      <word id="14" form="diuturna" lemma="diuturnus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="15" form="queat" lemma="queo" postag="v3spsa---" relation="nil" head="0"/>
+      <word id="16" form="consolidare" lemma="consolida" postag="v2spmp---" relation="nil"
+            head="0"/>
+      <word id="17" form="dies" lemma="dies" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="34" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quodsi" lemma="quodsi" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="cui" lemma="quis1" postag="n-s---md-" relation="nil" head="0"/>
+      <word id="3" form="nostra" lemma="noster" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="4" form="haec" lemma="hic" postag="p-s---fn-" relation="nil" head="0"/>
+      <word id="5" form="pietas" lemma="pietas1" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="6" form="culpanda" lemma="culpanda" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="7" form="videtur" lemma="video" postag="v3spip---" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Ceu" lemma="ceu" postag="d--------" relation="nil" head="0"/>
+      <word id="10" form="muliebre" lemma="muliebris" postag="a-s---nn-" relation="nil"
+            head="0"/>
+      <word id="11" form="animi" lemma="animus" postag="n-p---mn-" relation="nil" head="0"/>
+      <word id="12" form="debilioris" lemma="debilis" postag="a-s----gc" relation="nil"
+            head="0"/>
+      <word id="13" form="opus" lemma="opus1" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="14" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="35" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Is" lemma="eo1" postag="v2spia---" relation="nil" head="0"/>
+      <word id="2" form="certe" lemma="certus" postag="a--------" relation="nil" head="0"/>
+      <word id="3" form="ignorat" lemma="ignoro" postag="v3spia---" relation="nil" head="0"/>
+      <word id="4" form="naturae" lemma="natura" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="5" form="iura" lemma="jus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="potentis" lemma="possum" postag="v-spp--g-" relation="nil"
+            head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="36" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ignorat" lemma="ignoro" postag="v3spia---" relation="nil" head="0"/>
+      <word id="2" form="veterum" lemma="vetus" postag="a-p---mg-" relation="nil" head="0"/>
+      <word id="3" form="tot" lemma="tot" postag="x--------" relation="nil" head="0"/>
+      <word id="4" form="pia" lemma="pius" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="facta" lemma="factum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="virum" lemma="virus" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="37" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Marcius" lemma="" postag="" relation="nil" head="0"/>
+      <word id="2" form="ingratam" lemma="ingratus" postag="a-s---fa-" relation="nil"
+            head="0"/>
+      <word id="3" form="properabat" lemma="propero" postag="v3siia---" relation="nil"
+            head="0"/>
+      <word id="4" form="vincere" lemma="vinco" postag="v2sfip---" relation="nil" head="0"/>
+      <word id="5" form="Romam" lemma="" postag="" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Victa" lemma="vinco" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="8" form="ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="9" form="maternas" lemma="maternus1" postag="a-p---fa-" relation="nil"
+            head="0"/>
+      <word id="10" form="languit" lemma="languesco" postag="v3sria---" relation="nil"
+            head="0"/>
+      <word id="11" form="ira" lemma="ira" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="12" form="preces" lemma="prex" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="38" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Fugerat" lemma="fugio" postag="v3slia---" relation="nil" head="0"/>
+      <word id="2" form="Hesperium" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="Sertorius" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="exul" lemma="exsul" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="orbem" lemma="orbo" postag="v1spsa---" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="39" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Plurima" lemma="multus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="3" form="profugo" lemma="profugus" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="4" form="cura" lemma="cura" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="5" form="parentis" lemma="parens" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="6" form="erat" lemma="sum1" postag="v3siia---" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="40" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sancta" lemma="sanctum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="humeris" lemma="humo" postag="v2spsp---" relation="nil" head="0"/>
+      <word id="3" form="Siculi" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="portarunt" lemma="porto" postag="v3pria---" relation="nil"
+            head="0"/>
+      <word id="5" form="pondera" lemma="pondero" postag="v2spma---" relation="nil"
+            head="0"/>
+      <word id="6" form="fratres" lemma="frater" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Aetnaeus" lemma="" postag="" relation="nil" head="0"/>
+      <word id="9" form="flammas" lemma="flammo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="10" form="dum" lemma="dum" postag="c--------" relation="nil" head="0"/>
+      <word id="11" form="vomit" lemma="vomo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="12" form="ore" lemma="os1" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="13" form="gigas" lemma="gigas" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="41" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="plus" lemma="multus" postag="a-s----n-" relation="nil" head="0"/>
+      <word id="4" form="Tyndaridas" lemma="" postag="" relation="nil" head="0"/>
+      <word id="5" form="Sparte" lemma="spartum" postag="n-s---nv-" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="quam" lemma="qui1" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="8" form="praedicat" lemma="praedico2" postag="v3spsa---" relation="nil"
+            head="0"/>
+      <word id="9" form="Argos" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="Trita" lemma="tritus1" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="11" form="parentali" lemma="parentalis" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="12" form="fortia" lemma="fortis" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="13" form="colla" lemma="collum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="iugo" lemma="jugum" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="42" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Saecula" lemma="saeculum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="2" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="solos" lemma="solus1" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="5" form="coluerunt" lemma="colo1" postag="v3pria---" relation="nil"
+            head="0"/>
+      <word id="6" form="prisca" lemma="priscus1" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="7" form="parentes" lemma="pareo" postag="v-ppp-ma-" relation="nil" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="43" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quin" lemma="quin" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="etiam" lemma="etiam" postag="c--------" relation="nil" head="0"/>
+      <word id="3" form="nutrix" lemma="nutrix" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="4" form="tunc" lemma="tunc" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="veneranda" lemma="veneror" postag="v-p-g-nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="fuit" lemma="sum1" postag="v3sria---" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="44" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Caietam" lemma="" postag="" relation="nil" head="0"/>
+      <word id="2" form="e" lemma="ex" postag="r--------" relation="nil" head="0"/>
+      <word id="3" form="mediis" lemma="medium" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="4" form="Phrygius" lemma="" postag="" relation="nil" head="0"/>
+      <word id="5" form="tulit" lemma="tulo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="6" form="hostibus" lemma="hostis" postag="n-p---mb-" relation="nil"
+            head="0"/>
+      <word id="7" form="heros" lemma="erus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="45" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Illa" lemma="illa" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="dedit" lemma="dedo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="3" form="Latiis" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="nomina" lemma="nomen" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="litoribus" lemma="litus3" postag="n-p---nb-" relation="nil"
+            head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="46" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Arca" lemma="arx" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="2" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="3" form="Romuleis" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="meruit" lemma="mereo" postag="v3sria---" relation="nil" head="0"/>
+      <word id="5" form="solennia" lemma="" postag="" relation="nil" head="0"/>
+      <word id="6" form="fastis" lemma="faveo" postag="v2pria---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ambiguae" lemma="ambiguus" postag="a-p---fn-" relation="nil"
+            head="0"/>
+      <word id="9" form="mulier" lemma="mulier" postag="n-s---f--" relation="nil" head="0"/>
+      <word id="10" form="nomine" lemma="nomen" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="11" form="tecta" lemma="tectum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="12" form="lupae" lemma="lupa" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="47" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Iuppiter" lemma="" postag="" relation="nil" head="0"/>
+      <word id="2" form="altrici" lemma="altrix" postag="n-s---fd-" relation="nil" head="0"/>
+      <word id="3" form="donavit" lemma="dono" postag="v3sria---" relation="nil" head="0"/>
+      <word id="4" form="sidera" lemma="sidus" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="caprae" lemma="capra" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="48" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Splendet" lemma="splendeo" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="2" form="adhuc" lemma="adhuc" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="liquido" lemma="liquidum" postag="n-s---nb-" relation="nil"
+            head="0"/>
+      <word id="4" form="nobilis" lemma="nobilis" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="5" form="illa" lemma="illa" postag="d--------" relation="nil" head="0"/>
+      <word id="6" form="polo" lemma="polus1" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="49" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="minus" lemma="parvus" postag="a-s---nnc" relation="nil" head="0"/>
+      <word id="4" form="hac" lemma="hic" postag="p-s---fb-" relation="nil" head="0"/>
+      <word id="5" form="Hyades" lemma="" postag="" relation="nil" head="0"/>
+      <word id="6" form="gratum" lemma="grates" postag="n-p---fg-" relation="nil" head="0"/>
+      <word id="7" form="testantur" lemma="testor" postag="v3ppip---" relation="nil"
+            head="0"/>
+      <word id="8" form="Iacchum" lemma="" postag="" relation="nil" head="0"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="50" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quas" lemma="qui2" postag="p-p---fa-" relation="nil" head="0"/>
+      <word id="2" form="vernus" lemma="vernus2" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="nitido" lemma="nitidus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="4" form="Taurus" lemma="taurus1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="ore" lemma="os1" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="7" form="gerit" lemma="gero1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="51" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="vero" lemma="verus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="4" form="illorum" lemma="illic" postag="p-p---mg-" relation="nil" head="0"/>
+      <word id="5" form="quisquam" lemma="quisquam" postag="p-s---mn-" relation="nil"
+            head="0"/>
+      <word id="6" form="neget" lemma="nego" postag="v3spsa---" relation="nil" head="0"/>
+      <word id="7" form="esse" lemma="sum1" postag="v--pna---" relation="nil" head="0"/>
+      <word id="8" form="gemendos" lemma="gemo" postag="v-p-g-ma-" relation="nil" head="0"/>
+      <word id="9" form="Interitus" lemma="interitus" postag="a-s---mn-" relation="nil"
+            head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="vitae" lemma="vita" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="12" form="quis" lemma="quis1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="13" form="mora" lemma="mora1" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="14" form="longa" lemma="longus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="15" form="fuit" lemma="sum1" postag="v3sria---" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="52" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sincerus" lemma="sincerus" postag="a-s---mn-" relation="nil"
+            head="0"/>
+      <word id="2" form="nullos" lemma="nullus" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="affectus" lemma="affectus2" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="4" form="computat" lemma="computo" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="5" form="annos" lemma="annus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="53" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quicquid" lemma="quisquis" postag="p-s---nn-" relation="nil"
+            head="0"/>
+      <word id="2" form="ames" lemma="ames" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="nunquam" lemma="numquam" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="5" form="consenuisse" lemma="consenesco" postag="v--rna---" relation="nil"
+            head="0"/>
+      <word id="6" form="putes" lemma="puto" postag="v2spsa---" relation="nil" head="0"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="54" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Te" lemma="tu" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="2" form="-ne" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="ego" lemma="ego" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="post" lemma="post" postag="d--------" relation="nil" head="0"/>
+      <word id="6" form="duodena" lemma="duodeni" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="7" form="licet" lemma="liceo1" postag="v3spia---" relation="nil" head="0"/>
+      <word id="8" form="quinquennia" lemma="quinquennis" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="9" form="raptam" lemma="rapio" postag="v-srppfa-" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="12" form="fletu" lemma="fletus2" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="13" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="14" form="lacrymis" lemma="" postag="" relation="nil" head="0"/>
+      <word id="15" form="prosequar" lemma="prosequor" postag="v1sfip---" relation="nil"
+            head="0"/>
+      <word id="16" form="alma" lemma="almus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="17" form="parens" lemma="parens2" postag="n-s---mn-" relation="nil"
+            head="0"/>
+      <word id="18" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="55" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="3" form="conceptum" lemma="conceptum" postag="n-p---ng-" relation="nil"
+            head="0"/>
+      <word id="4" form="genitali" lemma="genitalis" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="sede" lemma="sedeo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="7" form="tulisti" lemma="fero" postag="v2sria---" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Exigeret" lemma="exigo" postag="v3sisa---" relation="nil" head="0"/>
+      <word id="10" form="menses" lemma="mensis" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="dum" lemma="dum" postag="c--------" relation="nil" head="0"/>
+      <word id="13" form="vaga" lemma="vagus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="luna" lemma="luno" postag="v2spma---" relation="nil" head="0"/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="decem" lemma="decem" postag="m--------" relation="nil" head="0"/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="56" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Forsitan" lemma="forsitan" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="2" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="3" form="duri" lemma="durus" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="4" form="rupissent" lemma="rumpo" postag="v3plsa---" relation="nil"
+            head="0"/>
+      <word id="5" form="viscera" lemma="viscera" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="partus" lemma="pario3" postag="v-srppmn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ni" lemma="ni" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="10" form="nitenti" lemma="niteo" postag="v-spp-mb-" relation="nil" head="0"/>
+      <word id="11" form="Iuno" lemma="" postag="" relation="nil" head="0"/>
+      <word id="12" form="tulisset" lemma="fero" postag="v3slsa---" relation="nil" head="0"/>
+      <word id="13" form="opem" lemma="ops1" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="57" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Exin" lemma="exinde" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="progenitum" lemma="progigno" postag="v-prppng-" relation="nil"
+            head="0"/>
+      <word id="3" form="gestasti" lemma="gesto" postag="v2sria---" relation="nil" head="0"/>
+      <word id="4" form="mollibus" lemma="mollia" postag="n-p---nb-" relation="nil"
+            head="0"/>
+      <word id="5" form="ulnis" lemma="ulna" postag="n-p---fb-" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Ac" lemma="atque" postag="c--------" relation="nil" head="0"/>
+      <word id="8" form="tua" lemma="tuus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="9" form="sunt" lemma="sum1" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="10" form="labris" lemma="labrum2" postag="n-p---nb-" relation="nil"
+            head="0"/>
+      <word id="11" form="ubera" lemma="ubero" postag="v2spma---" relation="nil" head="0"/>
+      <word id="12" form="presse" lemma="premo" postag="v-srppnv-" relation="nil" head="0"/>
+      <word id="13" form="meis" lemma="mei" postag="n-p---mb-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="58" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="3" form="complecti" lemma="complector" postag="v--pnp---" relation="nil"
+            head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="6" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="velut" lemma="velut" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="unicus" lemma="unicus" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="10" form="essem" lemma="sum1" postag="v1sisa---" relation="nil" head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="Comere" lemma="como2" postag="v2spsp---" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="15" form="blando" lemma="blandus" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="16" form="sueta" lemma="suesco" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="17" form="fovere" lemma="foveo" postag="v2spmp---" relation="nil" head="0"/>
+      <word id="18" form="sinu" lemma="sinus1" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="59" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Longe" lemma="longus" postag="a--------" relation="nil" head="0"/>
+      <word id="2" form="Livor" lemma="livor" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="eat" lemma="eo1" postag="v3spsa---" relation="nil" head="0"/>
+      <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="60" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="geminos" lemma="geminus" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="2" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="3" form="praeter" lemma="praeter" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="4" form="habebas" lemma="habeo" postag="v2siia---" relation="nil" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="Sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="7" form="tamen" lemma="tamen" postag="d--------" relation="nil" head="0"/>
+      <word id="8" form="ambobus" lemma="ambo" postag="a-p---mb-" relation="nil" head="0"/>
+      <word id="9" form="carior" lemma="carus1" postag="a-s---mnc" relation="nil" head="0"/>
+      <word id="10" form="unus" lemma="unus" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="11" form="eram" lemma="era" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="61" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Omen" lemma="omen" postag="n-s---na-" relation="nil" head="0"/>
+      <word id="2" form="inest" lemma="insum" postag="v3spia---" relation="nil" head="0"/>
+      <word id="3" form="genitis" lemma="gigno" postag="v-prppnb-" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="6" form="habent" lemma="habeo" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="7" form="praesagia" lemma="praesagium" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="matres" lemma="mater" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="An" lemma="an" postag="c--------" relation="nil" head="0"/>
+      <word id="12" form="magis" lemma="magis" postag="d--------" relation="nil" head="0"/>
+      <word id="13" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="14" form="sera" lemma="sero3" postag="v2spma---" relation="nil" head="0"/>
+      <word id="15" form="stirpe" lemma="stirps" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="16" form="moratur" lemma="moror2" postag="v3spip---" relation="nil"
+            head="0"/>
+      <word id="17" form="amor" lemma="amo" postag="v1spip---" relation="nil" head="0"/>
+      <word id="18" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="62" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Hinc" lemma="hinc" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="ubi" lemma="ubi" postag="c--------" relation="nil" head="0"/>
+      <word id="3" form="iam" lemma="jam" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="certo" lemma="certus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="5" form="fixi" lemma="figo" postag="v1sria---" relation="nil" head="0"/>
+      <word id="6" form="vestigia" lemma="vestigium" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="7" form="gressu" lemma="gradior" postag="n-s---nd-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Desiit" lemma="desino" postag="v3sria---" relation="nil" head="0"/>
+      <word id="10" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="11" form="blaesos" lemma="blaesus1" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="12" form="frangere" lemma="frango" postag="v2sfip---" relation="nil"
+            head="0"/>
+      <word id="13" form="lingua" lemma="lingua" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="14" form="sonos" lemma="sonus2" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="63" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Protinus" lemma="protinus" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="2" form="ingenuas" lemma="ingenuus" postag="a-p---fa-" relation="nil"
+            head="0"/>
+      <word id="3" form="docilem" lemma="docilis" postag="a-s---ma-" relation="nil"
+            head="0"/>
+      <word id="4" form="transmittis" lemma="transmitto" postag="v2spia---" relation="nil"
+            head="0"/>
+      <word id="5" form="ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="artes" lemma="ars" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Otia" lemma="otior" postag="v2spma---" relation="nil" head="0"/>
+      <word id="9" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="10" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="11" form="pateris" lemma="patera" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="12" form="ducere" lemma="duco" postag="v2sfip---" relation="nil" head="0"/>
+      <word id="13" form="lenta" lemma="lentus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="domi" lemma="domus" postag="d--------" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="64" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quicquid" lemma="quisquis" postag="p-s---nn-" relation="nil"
+            head="0"/>
+      <word id="2" form="lana" lemma="lana" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="3" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="quicquid" lemma="quisquis" postag="p-s---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="7" form="tela" lemma="telum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="8" form="lucelli" lemma="lucellum" postag="n-s---ng-" relation="nil"
+            head="0"/>
+      <word id="9" form="Attulerat" lemma="affero" postag="v3slia---" relation="nil"
+            head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="merces" lemma="merces1" postag="n-s---fn-" relation="nil"
+            head="0"/>
+      <word id="12" form="erudientis" lemma="erudio" postag="v-ppp-ma-" relation="nil"
+            head="0"/>
+      <word id="13" form="erat" lemma="sum1" postag="v3siia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="65" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Imbiberam" lemma="imbibo" postag="v1slia---" relation="nil"
+            head="0"/>
+      <word id="2" form="tenerae" lemma="tener" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="3" form="vix" lemma="vix" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="prima" lemma="prima" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="elementa" lemma="elementum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="Minervae" lemma="" postag="" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="9" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="mala" lemma="malus1" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="11" form="venturi" lemma="venio" postag="v-pfpamn-" relation="nil" head="0"/>
+      <word id="12" form="iam" lemma="jam" postag="d--------" relation="nil" head="0"/>
+      <word id="13" form="documenta" lemma="documentum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="14" form="dabam" lemma="do" postag="v1siia---" relation="nil" head="0"/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="16" form="Cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="17" form="tuus" lemma="tuus" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="18" form="Ausonias" lemma="" postag="" relation="nil" head="0"/>
+      <word id="19" form="tradit" lemma="trado" postag="v3spia---" relation="nil" head="0"/>
+      <word id="20" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="21" form="frater" lemma="frater" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="22" form="ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="23" form="oras" lemma="ora1" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="24" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="25" form="Longinquo" lemma="longinquo2" postag="v1spia---" relation="nil"
+            head="0"/>
+      <word id="26" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="27" form="Musas" lemma="" postag="" relation="nil" head="0"/>
+      <word id="28" form="quaerere" lemma="quaero" postag="v2sfip---" relation="nil"
+            head="0"/>
+      <word id="29" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="30" form="orbe" lemma="orbus" postag="a--------" relation="nil" head="0"/>
+      <word id="31" form="iubet" lemma="jubeo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="66" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Illius" lemma="ille" postag="p-s---mg-" relation="nil" head="0"/>
+      <word id="2" form="impensa" lemma="impense" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="3" form="Venetas" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="celebravimus" lemma="celebro" postag="v1pria---" relation="nil"
+            head="0"/>
+      <word id="5" form="urbes" lemma="urbs" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Dum" lemma="dum" postag="c--------" relation="nil" head="0"/>
+      <word id="8" form="sol" lemma="sol" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="9" form="undecies" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="per" lemma="per" postag="r--------" relation="nil" head="0"/>
+      <word id="11" form="sua" lemma="sua" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="12" form="signa" lemma="signum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="13" form="redit" lemma="redeo" postag="v3spia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="67" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quod" lemma="qui1" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="2" form="desiderium" lemma="desiderium" postag="n-p---ng-" relation="nil"
+            head="0"/>
+      <word id="3" form="tanto" lemma="tantus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="4" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="5" form="tempore" lemma="tempus" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="6" form="nostri" lemma="noster" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="7" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="68" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quanta" lemma="quantus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="inter" lemma="inter" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="dubios" lemma="dubius" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="gaudia" lemma="gaudium" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="5" form="saepe" lemma="saepes" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="6" form="metus" lemma="metus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="7" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="69" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="At" lemma="at" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="postquam" lemma="postquam" postag="c--------" relation="nil"
+            head="0"/>
+      <word id="3" form="patriae" lemma="patrius2" postag="a-p---fn-" relation="nil"
+            head="0"/>
+      <word id="4" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="5" form="reddidit" lemma="reddo" postag="v3sria---" relation="nil" head="0"/>
+      <word id="6" form="Itala" lemma="" postag="" relation="nil" head="0"/>
+      <word id="7" form="tellus" lemma="tellus" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Obtigit" lemma="obtingo" postag="v3sria---" relation="nil"
+            head="0"/>
+      <word id="10" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="11" form="iuveni" lemma="juvenis" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="12" form="pontificalis" lemma="pontificalis" postag="a-p---ma-"
+            relation="nil"
+            head="0"/>
+      <word id="13" form="honos" lemma="honor" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="16" form="fuit" lemma="sum1" postag="v3sria---" relation="nil" head="0"/>
+      <word id="17" form="ulla" lemma="ullus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="18" form="tuae" lemma="tuus" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="20" form="sedes" lemma="sedo" postag="v2spsa---" relation="nil" head="0"/>
+      <word id="21" form="tam" lemma="tam" postag="d--------" relation="nil" head="0"/>
+      <word id="22" form="grata" lemma="gratus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="24" form="senectae" lemma="senecta" postag="n-p---fn-" relation="nil"
+            head="0"/>
+      <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="26" form="Quam" lemma="quam" postag="d--------" relation="nil" head="0"/>
+      <word id="27" form="prope" lemma="prope" postag="d--------" relation="nil" head="0"/>
+      <word id="28" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="29" form="modicos" lemma="modicus" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="30" form="incoluisse" lemma="incolo1" postag="v--rna---" relation="nil"
+            head="0"/>
+      <word id="31" form="Lares" lemma="lar" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="70" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Hic" lemma="hic" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="modo" lemma="modo" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="delicias" lemma="delicia" postag="n-p---fa-" relation="nil"
+            head="0"/>
+      <word id="4" form="nobis" lemma="nos" postag="p-p---mb-" relation="nil" head="0"/>
+      <word id="5" form="studiosa" lemma="studiosus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="parabas" lemma="paro2" postag="v2siia---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Nunc" lemma="nunc" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="trepida" lemma="trepidus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="10" form="nebas" lemma="neo1" postag="v2siia---" relation="nil" head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="linea" lemma="linea" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="13" form="texta" lemma="textum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="manu" lemma="manus1" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="71" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Donec" lemma="donec" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="fila" lemma="filum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="3" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="4" form="torquere" lemma="torqueo" postag="v2spmp---" relation="nil"
+            head="0"/>
+      <word id="5" form="novissima" lemma="novus" postag="a-p---nns" relation="nil"
+            head="0"/>
+      <word id="6" form="Clotho" lemma="" postag="" relation="nil" head="0"/>
+      <word id="7" form="Coepit" lemma="coepio" postag="v3spia---" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="extremos" lemma="extremus" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="11" form="annumerare" lemma="annumero" postag="v2spmp---" relation="nil"
+            head="0"/>
+      <word id="12" form="dies" lemma="dies" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="72" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Convenit" lemma="convenio" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="2" form="audito" lemma="audio" postag="v3sfma---" relation="nil" head="0"/>
+      <word id="3" form="tristis" lemma="triste" postag="n-s---ng-" relation="nil" head="0"/>
+      <word id="4" form="vicinia" lemma="vicinia" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="5" form="casu" lemma="casus1" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="8" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="9" form="capiunt" lemma="capio1" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="10" form="densas" lemma="densus" postag="a-p---fa-" relation="nil" head="0"/>
+      <word id="11" form="atria" lemma="atrium" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="12" form="lata" lemma="latus3" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="13" form="nurus" lemma="nurus" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="73" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Flebant" lemma="fleo" postag="v3piia---" relation="nil" head="0"/>
+      <word id="2" form="cognatae" lemma="cognata" postag="n-p---fn-" relation="nil"
+            head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="nuper" lemma="nuper" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="tua" lemma="tuus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="cura" lemma="cura" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="puellae" lemma="puella" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Clausura" lemma="clausura" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="11" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="12" form="visus" lemma="video" postag="v-srppmn-" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="filia" lemma="filia" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="15" form="moesta" lemma="maestus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="tuos" lemma="tuus" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="74" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ast" lemma="at" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="blanditiis" lemma="blanditia" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="4" form="animum" lemma="animus" postag="n-p---mg-" relation="nil" head="0"/>
+      <word id="5" form="solabar" lemma="solor" postag="v1siip---" relation="nil" head="0"/>
+      <word id="6" form="anilem" lemma="anilis" postag="a-s---ma-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Tristitiam" lemma="tristitia" postag="n-s---fa-" relation="nil"
+            head="0"/>
+      <word id="9" form="vultu" lemma="vultus" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="10" form="dissimulante" lemma="dissimulo" postag="v-spp-mb-" relation="nil"
+            head="0"/>
+      <word id="11" form="tegens" lemma="tego" postag="v-spp-na-" relation="nil" head="0"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="75" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Scilicet" lemma="scilicet" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="2" form="augeret" lemma="augeo" postag="v3sisa---" relation="nil" head="0"/>
+      <word id="3" form="mea" lemma="meum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="4" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="6" form="cura" lemma="cura" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="7" form="dolorem" lemma="dolor" postag="n-s---ma-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Anxia" lemma="anxius" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="10" form="neu" lemma="neu" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="fieres" lemma="fio" postag="v2s-sa---" relation="nil" head="0"/>
+      <word id="12" form="anxietate" lemma="anxietas" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="13" form="mea" lemma="meum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="76" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="At" lemma="at" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="tu" lemma="tu" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="5" form="tanto" lemma="tantus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="6" form="genetricem" lemma="genetrix" postag="n-s---fa-" relation="nil"
+            head="0"/>
+      <word id="7" form="oblita" lemma="obliviscor" postag="v-prppnn-" relation="nil"
+            head="0"/>
+      <word id="8" form="periclo" lemma="periculum" postag="n-s---nb-" relation="nil"
+            head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Dulce" lemma="dulce" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="12" form="aiebas" lemma="aio" postag="v2siia---" relation="nil" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="15" form="superante" lemma="supero" postag="v-spp-mb-" relation="nil"
+            head="0"/>
+      <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="17" form="mori" lemma="morus" postag="n-p---mn-" relation="nil" head="0"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="77" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quaerebant" lemma="quaero" postag="v3piia---" relation="nil"
+            head="0"/>
+      <word id="2" form="nostros" lemma="noster" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="iam" lemma="jam" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="caligantia" lemma="caligo2" postag="v-ppp-nn-" relation="nil"
+            head="0"/>
+      <word id="5" form="vultus" lemma="vultus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="6" form="Lumina" lemma="lumino" postag="v2spma---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="ne" lemma="ne1" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="nomen" lemma="nome" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="11" form="deerat" lemma="desum" postag="v3siia---" relation="nil" head="0"/>
+      <word id="12" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="13" form="ore" lemma="os1" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="14" form="meum" lemma="meum" postag="n-p---ng-" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="78" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="subito" lemma="subitum" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="3" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="4" form="vacuas" lemma="vacuus" postag="a-p---fa-" relation="nil" head="0"/>
+      <word id="5" form="discedens" lemma="discedo" postag="v-spp-na-" relation="nil"
+            head="0"/>
+      <word id="6" form="spiritus" lemma="spiritus" postag="n-p---ma-" relation="nil"
+            head="0"/>
+      <word id="7" form="auras" lemma="auris" postag="v2spsa---" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Destituit" lemma="destituo" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="10" form="tepido" lemma="tepidus" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="frigida" lemma="frigidum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="13" form="membra" lemma="membrum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="toro" lemma="torus" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="79" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Mater" lemma="mater" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="2" form="io" lemma="io1" postag="e--------" relation="nil" head="0"/>
+      <word id="3" form="cur" lemma="cur" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="5" form="rerum" lemma="res" postag="n-p---fg-" relation="nil" head="0"/>
+      <word id="6" form="inter" lemma="inter" postag="d--------" relation="nil" head="0"/>
+      <word id="7" form="prospera" lemma="prospera" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="8" form="linquis" lemma="linquo" postag="v2spia---" relation="nil" head="0"/>
+      <word id="9" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="80" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Hoc" lemma="hic" postag="p-s---nn-" relation="nil" head="0"/>
+      <word id="2" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="3" form="vivendum" lemma="vivo" postag="v-p-g-ng-" relation="nil" head="0"/>
+      <word id="4" form="tempore" lemma="tempus" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="mater" lemma="mater" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="erat" lemma="sum1" postag="v3siia---" relation="nil" head="0"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="81" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="3" form="florentem" lemma="floreo" postag="v-spp-ma-" relation="nil"
+            head="0"/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="6" form="me" lemma="ego" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="7" form="spectare" lemma="specto" postag="v2spmp---" relation="nil"
+            head="0"/>
+      <word id="8" form="beatum" lemma="beo" postag="v-prppng-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="11" form="poteras" lemma="possum" postag="v2siia---" relation="nil"
+            head="0"/>
+      <word id="12" form="omni" lemma="omne" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="13" form="commoditate" lemma="commoditas" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="14" form="frui" lemma="fruor" postag="v--pnp---" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="82" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Pupillae" lemma="pupilla" postag="n-p---fn-" relation="nil"
+            head="0"/>
+      <word id="2" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="3" form="certe" lemma="certus" postag="a--------" relation="nil" head="0"/>
+      <word id="4" form="nondum" lemma="nondum" postag="c--------" relation="nil" head="0"/>
+      <word id="5" form="nupsere" lemma="nubo" postag="v3pria---" relation="nil" head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="sorores" lemma="soror" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Turba" lemma="turba" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="10" form="magisteriis" lemma="magisterium" postag="n-p---nb-"
+            relation="nil"
+            head="0"/>
+      <word id="11" form="instituenda" lemma="instituo" postag="v-p-g-nn-" relation="nil"
+            head="0"/>
+      <word id="12" form="tuis" lemma="tuus" postag="a-p---nb-" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="83" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quarum" lemma="quis2" postag="p-p---fg-" relation="nil" head="0"/>
+      <word id="2" form="quis" lemma="quis1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="molles" lemma="mollis" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="4" form="nunc" lemma="nunc" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="imbuet" lemma="imbuo" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="6" form="artibus" lemma="ars" postag="n-p---fb-" relation="nil" head="0"/>
+      <word id="7" form="annos" lemma="annus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="8" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="84" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quis" lemma="quis1" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="tenerae" lemma="tener" postag="a-p---fn-" relation="nil" head="0"/>
+      <word id="3" form="custos" lemma="custos" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="4" form="virginitatis" lemma="virginitas" postag="n-s---fg-" relation="nil"
+            head="0"/>
+      <word id="5" form="erit" lemma="sum1" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="6" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="85" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Accipe" lemma="accipio" postag="v2spma---" relation="nil" head="0"/>
+      <word id="2" form="cara" lemma="carus1" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="3" form="parens" lemma="parens2" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="4" form="nostri" lemma="noster" postag="a-p---mn-" relation="nil" head="0"/>
+      <word id="5" form="monumenta" lemma="monumentum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="doloris" lemma="dolor" postag="n-s---mg-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="ampla" lemma="amplo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="10" form="artifici" lemma="artificium" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="11" form="structa" lemma="structus1" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="12" form="sepulcra" lemma="sepulcrum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="13" form="manu" lemma="manus1" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="86" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="Mausolei" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="pendentis" lemma="pendo" postag="v-ppp-ma-" relation="nil"
+            head="0"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="aere" lemma="aer" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="7" form="molem" lemma="moles" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="10" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="11" form="ruiturarum" lemma="" postag="" relation="nil" head="0"/>
+      <word id="12" form="culmina" lemma="culmen" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="13" form="pyramidum" lemma="pyramis" postag="n-p---fg-" relation="nil"
+            head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="Psallentum" lemma="" postag="" relation="nil" head="0"/>
+      <word id="16" form="sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="17" form="rite" lemma="rite" postag="d--------" relation="nil" head="0"/>
+      <word id="18" form="choros" lemma="chorus" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="20" form="sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="21" form="turis" lemma="tus" postag="n-s---ng-" relation="nil" head="0"/>
+      <word id="22" form="odores" lemma="odor" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="24" form="Sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="25" form="cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="26" form="flebilibus" lemma="flebilis" postag="a-p---mb-" relation="nil"
+            head="0"/>
+      <word id="27" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="28" form="verba" lemma="verbum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="29" form="tremenda" lemma="tremendus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="30" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="31" form="modis" lemma="modium" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="87" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="En" lemma="en" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="feretrum" lemma="feretrum" postag="n-p---ng-" relation="nil"
+            head="0"/>
+      <word id="3" form="celebri" lemma="celeber" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="4" form="praecedunt" lemma="praecedo" postag="v3ppia---" relation="nil"
+            head="0"/>
+      <word id="5" form="agmina" lemma="agmen" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="pompa" lemma="pompo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Pulsata" lemma="pulso" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="9" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="10" form="sacris" lemma="sacer" postag="a-p---nb-" relation="nil" head="0"/>
+      <word id="11" form="turribus" lemma="turris" postag="n-p---fb-" relation="nil"
+            head="0"/>
+      <word id="12" form="aera" lemma="aera" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="13" form="sonant" lemma="sono" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="88" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Dives" lemma="dives" postag="n-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="3" form="innumeras" lemma="innumerus" postag="a-p---fa-" relation="nil"
+            head="0"/>
+      <word id="4" form="offertur" lemma="offero" postag="v3spip---" relation="nil"
+            head="0"/>
+      <word id="5" form="cereus" lemma="cereus1" postag="a-s---mn-" relation="nil" head="0"/>
+      <word id="6" form="aras" lemma="aro" postag="v2spia---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ac" lemma="atque" postag="c--------" relation="nil" head="0"/>
+      <word id="9" form="requiem" lemma="requies" postag="n-s---fa-" relation="nil"
+            head="0"/>
+      <word id="10" form="templum" lemma="templum" postag="n-p---ng-" relation="nil"
+            head="0"/>
+      <word id="11" form="concinit" lemma="concino" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="12" form="omne" lemma="omne" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="13" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="89" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ipse" lemma="ipse" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="2" form="ego" lemma="ego" postag="p-s---mn-" relation="nil" head="0"/>
+      <word id="3" form="solenni" lemma="" postag="" relation="nil" head="0"/>
+      <word id="4" form="pullatus" lemma="pullo" postag="v-srppmn-" relation="nil" head="0"/>
+      <word id="5" form="veste" lemma="vestis" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="6" form="sacerdos" lemma="sacerdos1" postag="n-s---mn-" relation="nil"
+            head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="9" form="tumulum" lemma="tumulus" postag="n-p---mg-" relation="nil"
+            head="0"/>
+      <word id="10" form="pro" lemma="pro1" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="te" lemma="tu" postag="p-s---mb-" relation="nil" head="0"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="13" form="mystica" lemma="mysticus" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="14" form="dona" lemma="dono" postag="v2spma---" relation="nil" head="0"/>
+      <word id="15" form="fero" lemma="ferus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="90" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Quamvis" lemma="quamvis" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="2" form="haud" lemma="haud" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="dubitem" lemma="dubito" postag="v1spsa---" relation="nil" head="0"/>
+      <word id="4" form="felici" lemma="filix" postag="n-s---fd-" relation="nil" head="0"/>
+      <word id="5" form="sede" lemma="sedeo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="6" form="receptam" lemma="recipio" postag="v-srppfa-" relation="nil"
+            head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Orbe" lemma="orbus" postag="a--------" relation="nil" head="0"/>
+      <word id="9" form="manent" lemma="maneo" postag="v3ppia---" relation="nil" head="0"/>
+      <word id="10" form="alio" lemma="allium" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="11" form="praemia" lemma="praemium" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="12" form="si" lemma="si" postag="c--------" relation="nil" head="0"/>
+      <word id="13" form="qua" lemma="qui2" postag="p-s---fb-" relation="nil" head="0"/>
+      <word id="14" form="pios" lemma="pius" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="91" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Vixisti" lemma="vivo" postag="v2sria---" relation="nil" head="0"/>
+      <word id="2" form="innocue" lemma="innocuus" postag="a--------" relation="nil"
+            head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="4" form="coluisti" lemma="colo1" postag="v2sria---" relation="nil" head="0"/>
+      <word id="5" form="labe" lemma="labes2" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="6" form="remota" lemma="removeo" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Officiis" lemma="officium" postag="n-p---nb-" relation="nil"
+            head="0"/>
+      <word id="9" form="homines" lemma="homo" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="religione" lemma="religio" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="12" form="Deum" lemma="deus" postag="n-p---mg-" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="92" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Incolumi" lemma="incolumis" postag="a-s---mb-" relation="nil"
+            head="0"/>
+      <word id="2" form="sane" lemma="sanus" postag="a--------" relation="nil" head="0"/>
+      <word id="3" form="fueris" lemma="sum1" postag="v2stia---" relation="nil" head="0"/>
+      <word id="4" form="quam" lemma="qui1" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="5" form="fida" lemma="fidus1" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="6" form="marito" lemma="maritus1" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Declarat" lemma="declaro" postag="v3spia---" relation="nil"
+            head="0"/>
+      <word id="9" form="viduae" lemma="vidua" postag="n-p---fn-" relation="nil" head="0"/>
+      <word id="10" form="non" lemma="non" postag="d--------" relation="nil" head="0"/>
+      <word id="11" form="repetitus" lemma="repeto" postag="v-srppmn-" relation="nil"
+            head="0"/>
+      <word id="12" form="Hymen" lemma="" postag="" relation="nil" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="93" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Mansisti" lemma="maneo" postag="v2sria---" relation="nil" head="0"/>
+      <word id="2" form="caelebs" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="dum" lemma="dum" postag="c--------" relation="nil" head="0"/>
+      <word id="4" form="vertens" lemma="verto" postag="v-spp-na-" relation="nil" head="0"/>
+      <word id="5" form="saecula" lemma="saeculum" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="6" form="Titan" lemma="" postag="" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Iungeret" lemma="jungo" postag="v3sisa---" relation="nil" head="0"/>
+      <word id="9" form="autumnis" lemma="auctumnus2" postag="a-p---nb-" relation="nil"
+            head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="lustra" lemma="lustrum1" postag="n-p---nn-" relation="nil"
+            head="0"/>
+      <word id="12" form="quaterna" lemma="quaterni" postag="a-p---nn-" relation="nil"
+            head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="14" form="tribus" lemma="tribus" postag="n-p---fa-" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="94" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ergo" lemma="ergo" postag="d--------" relation="nil" head="0"/>
+      <word id="2" form="apud" lemma="apud" postag="r--------" relation="nil" head="0"/>
+      <word id="3" form="antiquos" lemma="antiquus" postag="a-p---ma-" relation="nil"
+            head="0"/>
+      <word id="4" form="olim" lemma="olim" postag="d--------" relation="nil" head="0"/>
+      <word id="5" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="6" form="iure" lemma="jus" postag="n-s---nb-" relation="nil" head="0"/>
+      <word id="7" form="Quirites" lemma="quirito" postag="v2spsa---" relation="nil"
+            head="0"/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="Rara" lemma="rarus" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="10" form="pudicitiae" lemma="pudicitia" postag="n-p---fn-" relation="nil"
+            head="0"/>
+      <word id="11" form="parta" lemma="parta" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="12" form="corona" lemma="corona" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="13" form="foret" lemma="sum1" postag="v3sisa---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="95" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="2" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="3" form="mors" lemma="mors" postag="n-s---fn-" relation="nil" head="0"/>
+      <word id="4" form="praeteritis" lemma="praetero" postag="v2ppia---" relation="nil"
+            head="0"/>
+      <word id="5" form="dispar" lemma="dispar" postag="a-s---na-" relation="nil" head="0"/>
+      <word id="6" form="tibi" lemma="tu" postag="p-s---md-" relation="nil" head="0"/>
+      <word id="7" form="contigit" lemma="contingo1" postag="v3sria---" relation="nil"
+            head="0"/>
+      <word id="8" form="actis" lemma="actum" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="Fine" lemma="finis" postag="n-s---mb-" relation="nil" head="0"/>
+      <word id="11" form="bono" lemma="bonus" postag="a-s---nb-" relation="nil" head="0"/>
+      <word id="12" form="claudi" lemma="claudo" postag="v--pnp---" relation="nil" head="0"/>
+      <word id="13" form="vita" lemma="vito" postag="v2spma---" relation="nil" head="0"/>
+      <word id="14" form="probata" lemma="probo" postag="v-prppnn-" relation="nil" head="0"/>
+      <word id="15" form="solet" lemma="solo1" postag="v3spsa---" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="96" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Omnibus" lemma="omnia" postag="n-p---nb-" relation="nil" head="0"/>
+      <word id="2" form="expletis" lemma="expleo" postag="v2ppia---" relation="nil"
+            head="0"/>
+      <word id="3" form="sacra" lemma="sacer" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="4" form="quae" lemma="qui2" postag="p-p---fn-" relation="nil" head="0"/>
+      <word id="5" form="lege" lemma="lex" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="6" form="iubentur" lemma="jubeo" postag="v3ppip---" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Libera" lemma="libero" postag="v2spma---" relation="nil" head="0"/>
+      <word id="9" form="terreno" lemma="terrenus" postag="a-s---nb-" relation="nil"
+            head="0"/>
+      <word id="10" form="carcere" lemma="carcer" postag="n-s---mb-" relation="nil"
+            head="0"/>
+      <word id="11" form="ad" lemma="ad" postag="r--------" relation="nil" head="0"/>
+      <word id="12" form="astra" lemma="astrum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="13" form="volas" lemma="volo2" postag="v2spia---" relation="nil" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="97" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Sed" lemma="sed" postag="c--------" relation="nil" head="0"/>
+      <word id="2" form="iam" lemma="jam" postag="d--------" relation="nil" head="0"/>
+      <word id="3" form="sancta" lemma="sanctum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="4" form="vale" lemma="valeo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="5" form="genetrix" lemma="genetrix" postag="n-s---fn-" relation="nil"
+            head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="et" lemma="et" postag="c--------" relation="nil" head="0"/>
+      <word id="8" form="civis" lemma="civis" postag="n-p---ma-" relation="nil" head="0"/>
+      <word id="9" form="Olympi" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="Cunctantem" lemma="cuncto" postag="v-spp-ma-" relation="nil"
+            head="0"/>
+      <word id="12" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="13" form="terris" lemma="terra" postag="n-p---fb-" relation="nil" head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="voce" lemma="vox" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="16" form="precante" lemma="precor" postag="v-spp-mb-" relation="nil"
+            head="0"/>
+      <word id="17" form="iuva" lemma="juvo" postag="v2spma---" relation="nil" head="0"/>
+      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="98" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Mutua" lemma="mutuum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="2" form="nos" lemma="nos" postag="p-p---ma-" relation="nil" head="0"/>
+      <word id="3" form="rursum" lemma="rursum" postag="d--------" relation="nil" head="0"/>
+      <word id="4" form="iunget" lemma="jungo" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="5" form="praesentia" lemma="praesentia1" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="7" form="cum" lemma="cum" postag="c--------" relation="nil" head="0"/>
+      <word id="8" form="mox" lemma="mox" postag="d--------" relation="nil" head="0"/>
+      <word id="9" form="Audiet" lemma="audio" postag="v3sfia---" relation="nil" head="0"/>
+      <word id="10" form="extremam" lemma="extremus" postag="a-s---fa-" relation="nil"
+            head="0"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="12" form="machina" lemma="machina" postag="n-s---fb-" relation="nil"
+            head="0"/>
+      <word id="13" form="tota" lemma="totus2" postag="a-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="15" form="tubam" lemma="tuba" postag="n-s---fa-" relation="nil" head="0"/>
+      <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="99" document_id="urn:cts:croala:pannonius.01.lat1" subdoc="4.5" span="">
+      <word id="1" form="Interea" lemma="interea" postag="d--------" relation="nil"
+            head="0"/>
+      <word id="2" form="facili" lemma="facilis" postag="a-s---mb-" relation="nil" head="0"/>
+      <word id="3" form="corpus" lemma="corpus" postag="n-s---nn-" relation="nil" head="0"/>
+      <word id="4" form="requiescat" lemma="requiesco" postag="v3spsa---" relation="nil"
+            head="0"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="nil" head="0"/>
+      <word id="6" form="urna" lemma="urna" postag="n-s---fb-" relation="nil" head="0"/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="Ne" lemma="ne3" postag="e--------" relation="nil" head="0"/>
+      <word id="9" form="-c" lemma="" postag="" relation="nil" head="0"/>
+      <word id="10" form="gravis" lemma="gravis" postag="a-p---ma-" relation="nil" head="0"/>
+      <word id="11" form="incumbens" lemma="incumbo" postag="v-spp-na-" relation="nil"
+            head="0"/>
+      <word id="12" form="urgeat" lemma="urgeo" postag="v3spsa---" relation="nil" head="0"/>
+      <word id="13" form="ossa" lemma="ossum" postag="n-p---nn-" relation="nil" head="0"/>
+      <word id="14" form="lapis" lemma="lapio" postag="v2spia---" relation="nil" head="0"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
