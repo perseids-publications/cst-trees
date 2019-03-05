@@ -1,56 +1,13 @@
 {
-  "title": "*TITLE*",
-  "subtitle": "*SUBTITLE*",
+  "title": "Treebanks by Clara Sánchez Trigo",
+  "subtitle": "Project on the morph-syntactic analyses of Catullus' poems, done in collaboration with the Classics Department at the University of Seville",
   "report": "https://github.com/perseids-publications/cst-trees/issues",
   "github": "https://github.com/perseids-publications/cst-trees",
   "twitter": "",
   "collections": [
     {
-      "title": "*TREEBANK COLLECTION TITLE*",
+      "title": "Catullus' poetry",
       "publications": [
-        {
-          "path": "athenaeus-deipnosophistae",
-          "author": "Athenaeus",
-          "work": "Deipnosophistae",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "12.1-12.44",
-              "path": "perseus-grctb-1-25",
-              "xml": "perseus-grctb-1-25.xml",
-              "chunks": {
-                "start": 1,
-                "end": 539
-              }
-            },
-            {
-              "locus": "12.76-12.81",
-              "path": "perseus-grctb-3-4",
-              "xml": "perseus-grctb-3-4.xml",
-              "chunks": {
-                "start": 1,
-                "end": 108
-              }
-            }
-          ]
-        },
-        {
-          "path": "c-julius-caesar-de-bello-gallico",
-          "author": "C. Julius Caesar",
-          "work": "De bello Gallico",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "6",
-              "path": "perseus-grctb-499-1",
-              "xml": "perseus-grctb-499-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 337
-              }
-            }
-          ]
-        },
         {
           "path": "c-valerius-catullus-carmina",
           "author": "C. Valerius Catullus",
@@ -79,15 +36,6 @@
               "locus": "3",
               "path": "perseus-lattb-623-1",
               "xml": "perseus-lattb-623-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 9
-              }
-            },
-            {
-              "locus": "3",
-              "path": "perseus-lattb-1540-1",
-              "xml": "perseus-lattb-1540-1.xml",
               "chunks": {
                 "start": 1,
                 "end": 9
@@ -164,185 +112,6 @@
                 "start": 1,
                 "end": 2
               }
-            }
-          ]
-        },
-        {
-          "path": "herodotus-the-histories",
-          "author": "Herodotus",
-          "work": "The Histories",
-          "editors": "Vanessa Gorman, Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1.1-1.80",
-              "path": "perseus-grctb-160-8",
-              "xml": "perseus-grctb-160-8.xml",
-              "chunks": {
-                "start": 1,
-                "end": 555
-              }
-            },
-            {
-              "locus": "1.81-1.150",
-              "path": "perseus-grctb-169-4",
-              "xml": "perseus-grctb-169-4.xml",
-              "chunks": {
-                "start": 1,
-                "end": 522
-              }
-            }
-          ]
-        },
-        {
-          "path": "m-annaeus-lucanus-pharsalia",
-          "author": "M. Annaeus Lucanus",
-          "work": "Pharsalia",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1.1-1.5",
-              "path": "perseus-vortextb-70-1",
-              "xml": "perseus-vortextb-70-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 1
-              }
-            }
-          ]
-        },
-        {
-          "path": "polybius-histories",
-          "author": "Polybius",
-          "work": "Histories",
-          "editors": "Vanessa Gorman, Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1.1-1.28",
-              "path": "perseus-grctb-8-7",
-              "xml": "perseus-grctb-8-7.xml",
-              "chunks": {
-                "start": 1,
-                "end": 341
-              }
-            }
-          ]
-        },
-        {
-          "path": "thucydides-the-peloponnesian-war",
-          "author": "Thucydides",
-          "work": "The Peloponnesian War",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1.1-1.146",
-              "path": "perseus-grctb-501-1",
-              "xml": "perseus-grctb-501-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 959
-              }
-            }
-          ]
-        },
-        {
-          "path": "thucydides-the-peloponnesian-war",
-          "author": "Thucydides",
-          "work": "The Peloponnesian War",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1",
-              "path": "perseus-grctb-502-1",
-              "xml": "perseus-grctb-502-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 1361
-              }
-            }
-          ]
-        },
-        {
-          "path": "unknown-1",
-          "author": "unknown-author-1",
-          "work": "unknown-work-1",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "1",
-              "path": "perseus-lattb-470-1",
-              "xml": "perseus-lattb-470-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 17
-              }
-            }
-          ]
-        },
-        {
-          "path": "unknown-2",
-          "author": "unknown-author-2",
-          "work": "unknown-work-2",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "2.1",
-              "path": "perseus-lattb-471-1",
-              "xml": "perseus-lattb-471-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 28
-              }
-            }
-          ]
-        },
-        {
-          "path": "unknown-3",
-          "author": "unknown-author-3",
-          "work": "unknown-work-3",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "4.5",
-              "path": "perseus-lattb-495-1",
-              "xml": "perseus-lattb-495-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 99
-              }
-            }
-          ]
-        },
-        {
-          "path": "unknown-4",
-          "author": "unknown-author-4",
-          "work": "unknown-work-4",
-          "editors": "Clara Sánchez Trigo",
-          "sections": [
-            {
-              "locus": "unknown",
-              "path": "perseus-misctb-60-1",
-              "xml": "perseus-misctb-60-1.xml",
-              "chunks": {
-                "start": 1,
-                "end": 4
-              }
-            }
-          ]
-        },
-        {
-          "path": "philippic",
-          "author": "Demosthenes",
-          "work": "Philippic 1",
-          "editors": [
-            "Robert Gorman",
-            "Vanessa Gorman"
-          ],
-          "sections": [
-            {
-              "locus": "1-51",
-              "path": "philippic-1-51",
-              "xml": "demosthenes-4-phil1-bu1.xml",
-              "chunks": { "numbers": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159] }
             }
           ]
         }
