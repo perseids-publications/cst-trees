@@ -4,6 +4,7 @@
   "report": "https://github.com/perseids-publications/cst-trees/issues",
   "github": "https://github.com/perseids-publications/cst-trees",
   "twitter": "",
+  "treebankReact": true,
   "collections": [
     {
       "title": "Catullus' poetry",
